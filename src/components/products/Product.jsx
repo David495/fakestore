@@ -39,11 +39,9 @@ The era of spatial computing is here.
             <img src="{Ear}" alt="CardImage" className='card'/>
             <h1 className="cardTitle">Apple Watch SE</h1>
             <p className="cardDescription">
-Stay connected, active, and healthy with the Apple <br />
-Watch SE. Featuring essential features like fitness <br />
-tracking, heart rate monitoring, sleep tracking, <br />
-
-for your everyday life, at a more affordable price. <br />
+Easy ways to stay connected. Motivating fitness metrics. <br />
+Innovative health and safety features. Fresh band colors. <br />
+Apple Watch SE is packed with features at a feel-good price.
             </p>
             <p className="cardCategory">
                Smart Watch 
