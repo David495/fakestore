@@ -1,11 +1,13 @@
-import Ear from '../images/Ear.jpeg';
+import cardImage1 from "../images/airpod2pro.Jpeg";
+import cardImage2 from "../images/visionPro.jpeg";
+import cardImage3 from "../images/appple.jpeg";
 import '../products/product.css';
 function Card(){
     return(
         <>
         <div className="allCards">
         <div className="productCard">
-            <img src="{Ear}" alt="CardImage" className='card'/>
+        <img src= {cardImage1} alt="" className="productCardImage"  />
             <h1 className="cardTitle">Airpod 2 pro</h1>
             <p className="cardDescription">
                 Up to 2x more Active Noise Cancellation.2 <br />
@@ -21,7 +23,7 @@ function Card(){
             <p className="rating">⭐️⭐️⭐️⭐️✨</p>
         </div>
          <div className="productCard">
-            <img src="{Ear}" alt="CardImage" className='card'/>
+        <img src= {cardImage2} alt="" className="productCardImage" />
             <h1 className="cardTitle">Apple Vision Pro</h1>
             <p className="cardDescription">
 Apple Vision Pro seamlessly blends digital
@@ -36,7 +38,7 @@ The era of spatial computing is here.
             <p className="rating">⭐️⭐️⭐️⭐️✨</p>
         </div>
          <div className="productCard">
-            <img src="{Ear}" alt="CardImage" className='card'/>
+        <img src= {cardImage3} alt="" className="productCardImage" />
             <h1 className="cardTitle">Apple Watch SE</h1>
             <p className="cardDescription">
 Easy ways to stay connected. Motivating fitness metrics. <br />
