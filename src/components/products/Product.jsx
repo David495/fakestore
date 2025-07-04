@@ -1,7 +1,7 @@
 import cardImage1 from "../images/airpod2pro.Jpeg";
 import cardImage2 from "../images/visionPro.jpeg";
 import cardImage3 from "../images/appple.jpeg";
-import '../products/product.css';
+import  '../products/product.css';
 function Card(){
     return(
         <>
